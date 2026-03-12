@@ -58,7 +58,7 @@ submission/
 
 └── url.txt
 
-
+---
 
 \## Menjalankan Dashboard
 
@@ -117,6 +117,7 @@ https://bike-sharing-dashboard-hch9qjhkzicyag6zpqvm4f.streamlit.app/](https://bi
 
 
 * Perbedaan hari kerja dan akhir pekan memengaruhi pola penyewaan sepeda.
+
 
 
 
