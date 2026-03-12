@@ -98,7 +98,7 @@ Browser akan terbuka secara otomatis menampilkan dashboard interaktif.
 
 \## Dashboard dapat diakses secara live di:
 
-https://bike-sharing-dashboard-hch9qjhkzicyag6zpqvm4f.streamlit.app/
+https://bike-sharing-dashboard-hch9qjhkzicyag6zpqvm4f.streamlit.app/](https://bike-sharing-dashboard-fxsuz8nykzgntbgotext4d.streamlit.app/
 
 
 
@@ -117,6 +117,7 @@ https://bike-sharing-dashboard-hch9qjhkzicyag6zpqvm4f.streamlit.app/
 
 
 * Perbedaan hari kerja dan akhir pekan memengaruhi pola penyewaan sepeda.
+
 
 
 
